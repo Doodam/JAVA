@@ -1,3 +1,0 @@
-인코딩 테스트
-UTF-8
-MacOs, Linux 기본 encoding

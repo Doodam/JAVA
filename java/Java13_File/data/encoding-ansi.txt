@@ -1,3 +1,0 @@
-인코딩 테스트
-CP949
-한글 MS-Windows 기본 encoding
