@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Contact/src"/>
+	<classpathentry kind="src" path="Java01_Intro/src"/>
+	<classpathentry kind="src" path="Java02_Variable/src"/>
+	<classpathentry kind="src" path="Java03_Control/src"/>
+	<classpathentry kind="src" path="Java04_Array/src"/>
+	<classpathentry kind="src" path="Java05_Method/src"/>
+	<classpathentry kind="src" path="Java06_Class/src"/>
+	<classpathentry kind="src" path="Java07_Inheritance/src"/>
+	<classpathentry kind="src" path="Java08_Interface/src"/>
+	<classpathentry kind="src" path="Java09_API/src"/>
+	<classpathentry kind="src" path="Java10_Exception/src"/>
+	<classpathentry kind="src" path="Java11_MVC/src"/>
+	<classpathentry kind="src" path="Java12_Collection/src"/>
+	<classpathentry kind="src" path="Java13_File/src"/>
+	<classpathentry kind="src" path="Java14_InnerClass/src"/>
+	<classpathentry kind="src" path="Java15_Thread/src"/>
+	<classpathentry kind="src" path="Java16_Swing/src"/>
+	<classpathentry kind="src" path="Java17_JDBC/src"/>
+	<classpathentry kind="lib" path="Contact/lib/ojdbc11-21.9.0.0.jar"/>
+	<classpathentry kind="lib" path="Java17_JDBC/lib/ojdbc11-21.9.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
